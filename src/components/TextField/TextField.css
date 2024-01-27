@@ -1,0 +1,20 @@
+.input-container{
+    display: flex;
+    gap: 0.3rem;
+    flex-direction: column;
+    max-width: 100%;
+
+    & label{
+        font-weight: 500;
+        font-size: 1.4rem;
+        margin-top: 2rem;
+    }
+
+    & input{
+        border: none;
+        border-radius: 0.2rem;
+        background-color: rgb(245, 245, 245);
+        font-size: 20px;
+        padding: 1rem;
+    }
+}
