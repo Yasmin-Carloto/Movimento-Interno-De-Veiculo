@@ -1,7 +1,7 @@
 # Movimento Interno de Veículo - MIV
 
-### Projeto desenvolvido em React e utilizando css para estilização.
-### Essa solução é utilizada pela empresa Alocar para automatização da geração de um pdf para informações de veículos
+#### Projeto desenvolvido em React e utilizando css para estilização.
+#### Essa solução é utilizada pela empresa Alocar para automatização da geração de um pdf para informações de veículos.
 
 ## Para utilizar localmente utilizar seguintes comandos:
 ```
