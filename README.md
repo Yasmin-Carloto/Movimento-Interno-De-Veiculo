@@ -26,10 +26,3 @@ git clone https://github.com/Yasmin-Carloto/Movimento-Interno-De-Veiculo.git
 npm install
 npm run dev
 ```
-
-### Para utilizar localmente utilizar seguintes comandos:
-```
-git clone https://github.com/Yasmin-Carloto/Movimento-Interno-De-Veiculo.git
-npm install
-npm run dev
-```
